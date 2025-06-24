@@ -11,7 +11,7 @@ This project is a sales analytics dashboard built using **Microsoft Excel** and 
 - `data/Details-Orders.xlsx` – Merged dataset combining order and transaction details
 - `pbix_dashboard/sales-performance.pbix` – Power BI dashboard (open with Power BI Desktop)
 - `visuals/dashboard.jpg` – Snapshot of the final dashboard
-- `dashboard-demo.mp4` – Demo of the final dashboard
+- `visuals/dashboard-demo.mp4` – Demo of the final dashboard
 - `Insights.md` – Detailed analysis and business insights
 
 ## 📊 Key Metrics
