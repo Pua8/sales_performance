@@ -3,7 +3,7 @@
 This project is a sales analytics dashboard built using **Microsoft Excel** and **Power BI**. It visualizes sales performance by time, product category, customer behavior, and location using an interactive dashboard.
 
 ![Dashboard Preview](./visuals/dashboard.jpg)
-![Dashboard Demo](./visuals/dashboard-demo.mp4)
+![Dashboard Demo](./visuals/dashboard-demo.gif)
 
 
 ## 🗂 Project Structure
